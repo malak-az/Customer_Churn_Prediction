@@ -16,14 +16,4 @@ A machine learning project that predicts customer churn using an XGBoost classif
 
 Python, Pandas, Scikit-learn, XGBoost, Optuna, Streamlit, FastAPI, Joblib
 
-## Run
 
-```bash
-streamlit run streamlit_app.py
-```
-
-or
-
-```bash
-uvicorn app:app --reload
-```
